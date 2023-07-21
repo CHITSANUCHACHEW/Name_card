@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_950909_name_c.name_card_user" name="x_950909_name_c.name_card_user">552f4527978435902103b0c6f053afb0</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 11:01:03</sys_created_on>
+        <sys_id>1d2f4527978435902103b0c6f053afb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>552f4527978435902103b0c6f053afb0</sys_name>
+        <sys_package display_value="Request Name Card" source="x_950909_name_c">3b9c0963978435902103b0c6f053af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Request Name Card">3b9c0963978435902103b0c6f053af2b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1d2f4527978435902103b0c6f053afb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 11:01:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

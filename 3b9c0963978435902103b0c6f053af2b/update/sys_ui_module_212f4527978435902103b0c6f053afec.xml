@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Name card">9528c0c797bfa1502103b0c6f053af6f</application>
+        <filter/>
+        <name>Name cards</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_950909_name_c.name_card_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 11:01:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>212f4527978435902103b0c6f053afec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name cards</sys_name>
+        <sys_package display_value="Request Name Card" source="x_950909_name_c">3b9c0963978435902103b0c6f053af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Request Name Card">3b9c0963978435902103b0c6f053af2b</sys_scope>
+        <sys_update_name>sys_ui_module_212f4527978435902103b0c6f053afec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 11:01:04</sys_updated_on>
+        <table>x_950909_name_c_name_card</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

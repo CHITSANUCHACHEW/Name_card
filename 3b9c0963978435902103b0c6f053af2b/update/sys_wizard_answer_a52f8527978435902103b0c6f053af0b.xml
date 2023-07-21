@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Name card</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Name card</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d1998c87243021108c8bc6863d3fade0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 11:01:04</sys_created_on>
+        <sys_id>a52f8527978435902103b0c6f053af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name card</sys_name>
+        <sys_package display_value="Request Name Card" source="x_950909_name_c">3b9c0963978435902103b0c6f053af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Request Name Card">3b9c0963978435902103b0c6f053af2b</sys_scope>
+        <sys_update_name>sys_wizard_answer_a52f8527978435902103b0c6f053af0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 11:01:04</sys_updated_on>
+        <table/>
+        <target_url>x_950909_name_c_name_card.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
