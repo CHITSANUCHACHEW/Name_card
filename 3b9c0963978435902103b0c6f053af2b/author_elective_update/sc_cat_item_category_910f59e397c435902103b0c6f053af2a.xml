@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request Name card">56ced9a397c435902103b0c6f053af1c</sc_cat_item>
+        <sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 12:10:25</sys_created_on>
+        <sys_id>910f59e397c435902103b0c6f053af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Request Name card</sys_name>
+        <sys_package display_value="Request Name Card" source="x_950909_name_c">3b9c0963978435902103b0c6f053af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Request Name Card">3b9c0963978435902103b0c6f053af2b</sys_scope>
+        <sys_update_name>sc_cat_item_category_910f59e397c435902103b0c6f053af2a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 12:10:25</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Request Name Card">3b9c0963978435902103b0c6f053af2b</application>
+        <file_path/>
+        <instance_id>1213fc7fdb89e158c9912f17d4961955</instance_id>
+        <instance_name>dev153859</instance_name>
+        <name>sc_cat_item_category_910f59e397c435902103b0c6f053af2a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Request Name card">56ced9a397c435902103b0c6f053af1c</sc_cat_item><sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-21 12:10:25</sys_created_on><sys_id>910f59e397c435902103b0c6f053af2a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Business Application Lifecycle Management.Request Name card</sys_name><sys_package display_value="Request Name Card" source="x_950909_name_c">3b9c0963978435902103b0c6f053af2b</sys_package><sys_policy/><sys_scope display_value="Request Name Card">3b9c0963978435902103b0c6f053af2b</sys_scope><sys_update_name>sc_cat_item_category_910f59e397c435902103b0c6f053af2a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-21 12:10:25</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>153797117</payload_hash>
+        <record_name>Business Application Lifecycle Management.Request Name card</record_name>
+        <reverted_from/>
+        <source>6befd92797c435902103b0c6f053af74</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-21 12:14:23</sys_created_on>
+        <sys_id>2bef1d2797c435902103b0c6f053af88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189785f5f840000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-21 12:14:23</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6fef1d2739c435904f6288087b150387</update_guid>
+        <update_guid_history>6fef1d2739c435904f6288087b150387:153797117,910f59e3a4c43590a3581e4636e8812d:-1980113423</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Business Application Lifecycle Management.Request Name card">6fef1d2797c435902103b0c6f053af8c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-21 12:14:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1c5755ab64f54b908167df9d57c156c1</sys_id>
+        <sys_metadata>910f59e397c435902103b0c6f053af2a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Request Name card</sys_name>
+        <sys_package display_value="Request Name Card" source="x_950909_name_c">3b9c0963978435902103b0c6f053af2b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Request Name Card">3b9c0963978435902103b0c6f053af2b</sys_scope>
+        <sys_scope_delete display_value="">7ca56d627fce41648ff3e89be089f5a4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_910f59e397c435902103b0c6f053af2a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_910f59e397c435902103b0c6f053af2a">2bef1d2797c435902103b0c6f053af88</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-21 12:14:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

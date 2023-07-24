@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="11ed85a3978435902103b0c6f053af14" extends="task" label="Name card" max_length="40" name="x_950909_name_c_name_card" type="collection">
+    <element audit="true" db_object_id="11ed85a3978435902103b0c6f053af14" extends="task" label="Name card" max_length="40" name="x_950909_name_c_name_card" type="collection">
         <element label="Requester Email" max_length="40" name="requester_email" type="string"/>
         <element label="Requester Manager" max_length="32" name="requester_manager" reference="sys_user" type="reference"/>
         <element label="Requester Name" max_length="40" name="requester_name" type="string"/>
         <element label="Requester Phone" max_length="40" name="requester_phone" type="string"/>
-        <element label="stage" max_length="40" name="stage" type="string"/>
+        <element label="Stage" max_length="40" name="stage" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Request" sequence="0" value="request"/>
+                <element inactive_on_update="false" label="Waiting for approve" sequence="2" value="waiting_for_approve"/>
+                <element inactive_on_update="false" label="Complete" sequence="3" value="complete"/>
+            </choice>
+        </element>
     </element>
 </database>
